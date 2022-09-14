@@ -1,0 +1,44 @@
+body {
+  background:#F0F8FF;
+  color:#008080;
+  font-family:Helvetica;
+  font-size:20px;
+  margin-left:30px;
+  margin-righ:30px;
+  margin-top:30px;
+}
+
+h1{
+  color:#708090;
+  font-family:Arial;
+  text-align:center;
+}
+
+h2 {
+  text-align:center;
+  color:grey;
+}
+
+#seeanyone {
+  color:#FF0000;
+}
+
+table {
+  border-collapse:collapse;
+}
+
+th {
+  background-color:#D8BFD8;
+  color:#000000;
+  border:1px solid black;
+}
+
+table, td {
+  font=family:calibri;
+  color:#556B2F;
+  border:1px solid black;
+  }
+
+a {
+  color:#8A2BE2;
+}
